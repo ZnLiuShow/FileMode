@@ -18,5 +18,13 @@
     <ClCompile Include="MatchLabel.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="picturematch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PictureMatch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
